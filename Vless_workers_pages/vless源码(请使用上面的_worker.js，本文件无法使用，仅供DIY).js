@@ -10,7 +10,7 @@ const proxyIPs = ["ts.hpc.tw"]; //ts.hpc.tw edgetunnel.anycast.eu.org bestproxy.
 const cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
-let IP1 = 'www.visa.com'
+let IP1 = 'www.visa.commm'
 let IP2 = 'cis.visa.com'
 let IP3 = 'africa.visa.com'
 let IP4 = 'www.visa.com.sg'
