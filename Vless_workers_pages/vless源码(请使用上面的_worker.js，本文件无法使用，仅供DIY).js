@@ -19,7 +19,7 @@ let IP6 = 'www.visa.com.mt'
 let IP7 = 'qa.visamiddleeast.com'
 
 // https_ip
-let IP8 = 'usa.visa.com'
+let IP8 = 'usa.visa.commmmm'
 let IP9 = 'myanmar.visa.com'
 let IP10 = 'www.visa.com.tw'
 let IP11 = 'www.visaeurope.ch'
